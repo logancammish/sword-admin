@@ -1,0 +1,36 @@
+{
+  "name": "sword-admin",
+  "tree": {
+    "$className": "Model",
+    "$properties": {
+      "SourceAssetId": 4615463718.0,
+      "WorldPivotData": {
+        "OptionalCFrame": {
+          "position": [
+            60.855072,
+            24.453547,
+            28.333
+          ],
+          "orientation": [
+            [
+              0.0,
+              0.0,
+              -0.9999993
+            ],
+            [
+              0.0,
+              0.99999905,
+              0.0
+            ],
+            [
+              0.9999988,
+              0.0,
+              0.0
+            ]
+          ]
+        }
+      }
+    },
+    "$path": "src"
+  }
+}
